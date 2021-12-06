@@ -8,7 +8,7 @@ namespace MCD_OOPInterfaceOrnek2
 {
     public class Islem
     {
-        public IslemTuru IslemTuru { get; set; }
+        public IslemTuru IslemTur { get; set; }
 
     }
 }

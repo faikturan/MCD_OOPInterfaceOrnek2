@@ -10,12 +10,12 @@ namespace MCD_OOPInterfaceOrnek2
     {
        
 
-        void Iislem.IslemAdiniGetir()
+        public void IslemAdiniGetir()
         {
             Console.WriteLine(IslemTur + "-->" );
         }
 
-        void Iislem.IslemYap()
+        public void IslemYap()
         {
             KullancidanSayiAlveTopla();
         }
